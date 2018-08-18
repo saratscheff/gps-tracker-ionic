@@ -1,0 +1,6 @@
+{
+  "appId": "cl.saratscheff.gpstracker",
+  "appName": "GpsTracker",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

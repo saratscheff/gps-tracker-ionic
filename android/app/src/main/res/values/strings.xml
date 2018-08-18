@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GpsTracker</string>
+    <string name="title_activity_main">GpsTracker</string>
+    <string name="package_name">cl.saratscheff.gpstracker</string>
+    <string name="fileprovider_authority">cl.saratscheff.gpstracker.fileprovider</string>
+    <string name="custom_url_scheme">cl.saratscheff.gpstracker</string>
+</resources>
